@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	<Joel T-Cofie> -- <Backend Developer> -- <jtcofie@gmail.com>
+    <Jesse T-Cofie> -- <UI-Designer> -- <bohan3d@gmail.com>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
