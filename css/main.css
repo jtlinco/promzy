@@ -190,26 +190,17 @@ textarea {
 .slider {
     width: 1484px;
     height: 551px;
-    overflow: hidden;
 }
 
 .items {
-    /*display: none;*/
-    position: relative;
-    margin:0;
-    padding: 0;
-}
-
-.items li {
-	position:absolute;
-	display: none;
+    display: none;
 }
 
 .banner {
     position: absolute;
     margin-left: 547px;
     width: 770px;
-    z-index: 2!important;
+    z-index: 1 !important;
 }
 
 .title {
@@ -287,10 +278,6 @@ textarea {
 	position:absolute;
 	top:0;
 	left:0;
-}
-
-.visible {
-	display: block!important;
 }
 
 footer {

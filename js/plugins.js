@@ -25,11 +25,11 @@
 function slNavOver() {
 	var $imgs = $(this).find('img');
 	$($imgs[0]).hide();
-	$($imgs[1]).show();
+	$($imgs[1]).fadeIn(1000);
 }
 
 function slNavOut() {
 	var $imgs = $(this).find('img');
 	$($imgs[1]).hide();
-	$($imgs[0]).show();
+	$($imgs[0]).fadeIn(1000);
 }
