@@ -4,7 +4,7 @@
 # TEAM
 
 	<Joel T-Cofie> -- <Backend Developer> -- <jtcofie@gmail.com>
-    <Jesse T-Cofie> -- <UI-Designer> -- <bohan3d@gmail.com>
+    
 
 # THANKS
 
